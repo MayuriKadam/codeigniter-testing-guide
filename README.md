@@ -1,1 +1,1 @@
-# codeigniter-testing-guide
+# CodeIgniter Testing Guide
